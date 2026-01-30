@@ -1,1 +1,5 @@
-print(s1.firstname)
+print(fortuner.start())
+# print(fortuner.stop())
+# print(fortuner.type)
+# print(fortuner.brand)
+# print(fortuner.name)
